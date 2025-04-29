@@ -1,11 +1,15 @@
-### Mobile
-| ![](https://github.com/user-attachments/assets/cca40b77-42b3-4f4b-878c-1c4379ca5065) | ![](https://github.com/user-attachments/assets/ce925d21-3406-4b51-b2d7-ff78dc3c4db8) | ![](https://github.com/user-attachments/assets/07f8a09e-5a0d-4b1d-8e54-b71ae2214713) |
-|:--:|:--:|:--:|
-| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+
+[Live link](https://twhidur-rahman-abid.github.io/intelea-dashboard/)
+### Desktop
+![desktop](https://github.com/user-attachments/assets/679fe355-bef8-4c1d-bb47-ac75cfa1d2c8)
 
 ### Tablet
-![alt text](image-1.png)
+![teblet](https://github.com/user-attachments/assets/8fbfde9d-2dc8-49a9-96b0-57b8d5a03afa)
 
-### Desktop
-##### Steky nav and sidebar
-![alt text](image-2.png)
+### Mobile
+![twhidur-rahman-abid github io_intelea-dashboard_ (1)](https://github.com/user-attachments/assets/5a7b7c8a-5c34-445b-ad50-ce78cafc0e62)
+
+
+
+
+
