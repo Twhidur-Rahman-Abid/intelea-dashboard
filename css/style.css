@@ -128,7 +128,7 @@ nav {
 
   /* Card */
   .card {
-    background: var(--secondary-color);
+    background: var(--primary-color);
     padding: 40px;
     border-radius: 20px;
     color: #fff;
